@@ -38,7 +38,7 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <!-- @foreach($adjustments as $adjustment) -->
+                                @foreach($adjustments as $adjustment)
                                 <tr>
                                     <td class="table-active">{{ $adjustment->id }} </td>
                                     <td class="table-secondary">{{ $adjustment->date->toDateString() }}</td>
