@@ -28,8 +28,8 @@ Your Welcome to Contribute, I am willing to make this fully functional but befor
 
 # ScreenShots
 <img src="https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/1.PNG" width="800"/>
-<img src="https://i.imgur.com/boavXSr.png" width="800"/>
-<img src="https://i.imgur.com/MUlEADQ.png" width="800"/>
-<img src="https://i.imgur.com/IQjWsQt.png" width="800"/>
-<img src="https://i.imgur.com/SeWeEta.png" width="800"/>
+<img src="https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/2.PNG" width="800"/>
+<img src="https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/3.PNG" width="800"/>
+<img src="https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/4.PNG" width="800"/>
+<img src="https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/5.PNG" width="800"/>
 "# Web-Accounting" 
