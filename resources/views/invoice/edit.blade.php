@@ -96,7 +96,7 @@
                                     @endif
 
                                     <input class="form-control" id="value{{$i}}" name="value{{$i}}"
-                                        value="{{ $item->amount }}" placeholder="Rs." type="number"
+                                        value="{{ $item->amount }}" placeholder="Rp." type="number"
                                         vueAttribute='v{{$i}}' vueValue="{{$item->amount}}" >
                                 </div>
                                 
@@ -117,7 +117,7 @@
                                 </div>
 
                                 <div class="col-md-4">
-                                    <label class="col-md-8 control-label" for="selectbasic">Rs. {{ \App\Sa::where([['parentid','=', $invoice->id],['from','=',3]])->get()->sum('amount') }}
+                                    <label class="col-md-8 control-label" for="selectbasic">Rp. {{ \App\Sa::where([['parentid','=', $invoice->id],['from','=',3]])->get()->sum('amount') }}
                                     </label>
                                 </div>
                             </div>

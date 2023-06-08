@@ -87,7 +87,7 @@
                                     <label class="col-md-4 control-label" for="selectbasic">Amount</label>
                                     @endif
                                     <input class="form-control" id="value{{$i}}" v-model=v{{$i}} name="value{{$i}}"
-                                        value="{{ old('value' . $i )}}" placeholder="Rs." type="number"
+                                        value="{{ old('value' . $i )}}" placeholder="Rp." type="number"
                                         vueAttribute='v{{$i}}'>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@
                                 </div>
 
                                 <div class="col-md-4">
-                                    <label class="col-md-8 control-label" for="selectbasic">Rs. @{{ total }}
+                                    <label class="col-md-8 control-label" for="selectbasic">Rp. @{{ total }}
                                     </label>
                                 </div>
                             </div>

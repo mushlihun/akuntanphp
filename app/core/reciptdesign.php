@@ -762,7 +762,7 @@ if($exe){
 
 <div class="col-md-3">
   <label class="col-md-8 control-label" for="selectbasic">Amount</label>
-<input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rs." type="number"></input>
+<input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rp." type="number"></input>
 
     </div>
     </div>
@@ -784,7 +784,7 @@ if($exe){
 
   <div class="col-md-3">
 <br>
-   <input class="col-md-8 form-control" id="value2" name="value2" placeholder="Rs." type="number"></input>
+   <input class="col-md-8 form-control" id="value2" name="value2" placeholder="Rp." type="number"></input>
 
       </div>
       </div>
@@ -808,7 +808,7 @@ if($exe){
 
       <div class="col-md-3">
       <br>
-<input class="col-md-8 form-control" id="value3" name="value3" placeholder="Rs." type="number"></input>
+<input class="col-md-8 form-control" id="value3" name="value3" placeholder="Rp." type="number"></input>
 
         </div>
         </div>
@@ -829,7 +829,7 @@ if($exe){
 
         <div class="col-md-3">
         <br>
-      <input class="col-md-8 form-control" id="value4" name="value4" placeholder="Rs." type="number"></input>
+      <input class="col-md-8 form-control" id="value4" name="value4" placeholder="Rp." type="number"></input>
 
           </div>
           </div>
@@ -851,7 +851,7 @@ if($exe){
 
           <div class="col-md-3">
           <br>
-       <input class="col-md-8 form-control" id="value5" name="value5" placeholder="Rs." type="number"></input>
+       <input class="col-md-8 form-control" id="value5" name="value5" placeholder="Rp." type="number"></input>
 
             </div>
             </div>
@@ -873,7 +873,7 @@ if($exe){
 
             <div class="col-md-3">
               <br>
-         <input class="col-md-8 form-control" id="value6" name="value6" placeholder="Rs." type="number"></input>
+         <input class="col-md-8 form-control" id="value6" name="value6" placeholder="Rp." type="number"></input>
 
               </div>
     
@@ -895,7 +895,7 @@ if($exe){
 
 
         <div class="col-md-3">
-        <label class="col-md-8 control-label" for="selectbasic">Rs.<?php
+        <label class="col-md-8 control-label" for="selectbasic">Rp.<?php
 
 if(isset($_POST['btnadd'])){
   $date = $_POST['datevalue'];

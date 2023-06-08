@@ -71,7 +71,7 @@
                                 <div class="col-md-3">
                                     <label class="col-md-8 control-label" for="selectbasic">Amount</label>
                                     <input class="col-md-8 form-control" id="value1" value="{{ old('value1')}}"
-                                        v-model=v1 name="value1" placeholder="Rs." type="number" vueAttribute='v1'>
+                                        v-model=v1 name="value1" placeholder="Rp." type="number" vueAttribute='v1'>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
 
                                 <div class="col-md-3">
                                     <input class="col-md-8 form-control" id="value{{$i}}" v-model=v{{$i}}
-                                        name="value{{$i}}" value="{{ old('value' . $i )}}" placeholder="Rs."
+                                        name="value{{$i}}" value="{{ old('value' . $i )}}" placeholder="Rp."
                                         type="number" vueAttribute='v{{$i}}'>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                             </div>
 
                             <div class="col-md-3">
-                                <label class="col-md-8 control-label" for="selectbasic">Rs. @{{ total }}
+                                <label class="col-md-8 control-label" for="selectbasic">Rp. @{{ total }}
                                 </label>
                             </div>
                         </div>

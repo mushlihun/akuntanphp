@@ -164,7 +164,7 @@
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <label class="col-sm-8 control-label" for="selectbasic">Rs. {{ $invoice->Total }}
+                                    <label class="col-sm-8 control-label" for="selectbasic">Rp. {{ $invoice->Total }}
                                     </label>
                                 </div>
                             </div>

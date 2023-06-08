@@ -258,7 +258,7 @@ while($row = mysqli_fetch_array($query1))
 
 
         <div class="col-md-3">
-        <label class="col-md-8 control-label" for="selectbasic">Rs.<?php echo $row[17] ?><?php
+        <label class="col-md-8 control-label" for="selectbasic">Rp.<?php echo $row[17] ?><?php
 
 if(isset($_POST['btnadd'])){
   $value1 = $_POST['value1'];

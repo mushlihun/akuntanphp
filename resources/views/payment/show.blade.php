@@ -108,7 +108,7 @@
                                     <label class="col-md-8 control-label" for="selectbasic">Total</label>
                                 </div>
                                 <div class="col-md-3">
-                                    <label class="col-md-8 control-label" for="selectbasic">Rs. {{ $payment->Total }}
+                                    <label class="col-md-8 control-label" for="selectbasic">Rp. {{ $payment->Total }}
                                     </label>
                                 </div>
                             </div>

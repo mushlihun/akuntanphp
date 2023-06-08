@@ -66,7 +66,7 @@
                                 </div>
                                 <div class="col-md-3">
                                     <label class="col-md-8 control-label" for="selectbasic">Debit</label>
-                                    <input class="col-md-8 form-control" id="value" name="value" placeholder="Rs."
+                                    <input class="col-md-8 form-control" id="value" name="value" placeholder="Rp."
                                         type="number" v-model='CreditDebit' />
                                 </div>
                             </div>
@@ -122,7 +122,7 @@
                                 </div>
                                 <div class="col-md-3">
                                     <label class="col-md-8 control-label" for="selectbasic">Credit</label>
-                                    <input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rs."
+                                    <input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rp."
                                         type="number" v-model='CreditDebit'   vueAttribute='CreditDebit'/>
                                 </div>
                             </div>

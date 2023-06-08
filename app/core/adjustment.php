@@ -524,7 +524,7 @@ if($exe){
 
 <div class="col-md-3">
   <label class="col-md-8 control-label" for="selectbasic">Debit</label>
-<input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rs." type="number"></input>
+<input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rp." type="number"></input>
 
     </div>
     </div>
@@ -655,7 +655,7 @@ if($exe){
 
 <div class="col-md-3">
   <label class="col-md-8 control-label" for="selectbasic">Credit</label>
-<input class="col-md-8 form-control" id="value2" name="value2" placeholder="Rs." type="number"></input>
+<input class="col-md-8 form-control" id="value2" name="value2" placeholder="Rp." type="number"></input>
 
     </div>
     </div>

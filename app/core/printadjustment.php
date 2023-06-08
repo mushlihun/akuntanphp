@@ -166,7 +166,7 @@ while($row = mysqli_fetch_array($query1))
 
 <div class="col-md-3">
   <label class="col-md-8 control-label" for="selectbasic">Amount</label>
-<input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rs." type="number" value="<?php echo $row[5]; ?>"></input>
+<input class="col-md-8 form-control" id="value1" name="value1" placeholder="Rp." type="number" value="<?php echo $row[5]; ?>"></input>
 
     </div>
     </div>
@@ -234,7 +234,7 @@ while($row = mysqli_fetch_array($query1))
 
 <div class="col-md-3">
   <label class="col-md-12 control-label" for="selectbasic">Amount</label>
-<input class="col-md-8 form-control" id="value2" name="value2" placeholder="Rs." type="number" value="<?php echo $row[9]; ?>"></input>
+<input class="col-md-8 form-control" id="value2" name="value2" placeholder="Rp." type="number" value="<?php echo $row[9]; ?>"></input>
 
     </div>
     </div>
