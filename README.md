@@ -27,7 +27,7 @@ Your Welcome to Contribute, I am willing to make this fully functional but befor
 
 
 # ScreenShots
-[![License](https://img.shields.io/packagist/l/maxbanton/cwh.svg)](https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/1.PNG)
+<img src="https://github.com/mushlihun/akuntanphp/blob/master/screenshoot/1.PNG" width="800"/>
 <img src="https://i.imgur.com/boavXSr.png" width="800"/>
 <img src="https://i.imgur.com/MUlEADQ.png" width="800"/>
 <img src="https://i.imgur.com/IQjWsQt.png" width="800"/>
