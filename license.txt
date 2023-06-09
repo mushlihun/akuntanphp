@@ -5,7 +5,7 @@
 You are completely free to use this template for your personal use or as a work for your client as 
 long as you keep the link at the template footer pointing to us and our partner. 
 
-If you would prefer removing the backlink from the theme footer, please donate (paypal.me/mushlihun) 
+If you would prefer removing the backlink from the theme footer, please donate (https://www.paypal.me/mushlihun) 
 to support themes' development. Suggested amount per template is $10. 
 Also, as a bonus for donors, I can provide you the SCSS files for even easier template customization. Drop me a line at listcreative15@gmail.com after donating.
 
