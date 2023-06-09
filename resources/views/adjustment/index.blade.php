@@ -1,5 +1,5 @@
 @extends('layouts.app')
-<title>Payment Voucher Records</title>
+<title>Adjustment Records</title>
 @section('header')
 
 <link rel="stylesheet" type="text/css" href="/core/css/datatable.css">
@@ -14,11 +14,11 @@
 @section('content')
 <div class="col-lg-12" cloak>
     <div class="block">
-        <div class="title"><strong>Payment Voucher Records</strong></div>
+        <div class="title"><strong>Adjustment Records</strong></div>
         <div class="block-body">
             <form name="form" id="form1" action="" method="post">
                 <br>
-                <div id="txtshow">
+                <div align="center" id="txtshow">
                     <div class="table-responsive">
                         <table id="tables" class="display">
                             <thead>
@@ -48,7 +48,7 @@
                                     <td>{{ $adjustment->amount }}</td>
                                     <td>{{ \App\Chartaccount::find($adjustment->chartaccount1)->accountname }}</td>
                                     <td>{{ \App\Account::find($adjustment->mainaccount1)->name }}</td>
-                                    <td>{{ \App\Subaccount::find($adjustment->subaccount1)->accountname }}</td>>
+                                    <td>{{ \App\Subaccount::find($adjustment->subaccount1)->accountname }}</td>
                                     <td>{{ $adjustment->amount1 }}</td>
                                     <td>{{ $adjustment->description }}</td>
                                     <td><a href="{{ route('adjustments.show',$adjustment->id) }}">Print</a>

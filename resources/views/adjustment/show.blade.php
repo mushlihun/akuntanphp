@@ -142,7 +142,7 @@
         </div>
     </div>
 </div>
-<button type="button" class="btn btn-primary" style="position:absolute; height:41px ; width:101px ; bottom:70px; left:0px;"
+<button type="button" class="btn btn-primary" style="position:absolute; height:41px ; width:101px ; bottom:20%; right:10%;"
     onclick="printJS ({ printable: 'printJS-form', type: 'html' , header: 'Adjustment Voucher' })">Print Form</button>
 @endsection
 

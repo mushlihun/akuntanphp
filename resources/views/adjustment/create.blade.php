@@ -18,7 +18,7 @@
                                 <div class="col-md-5">
                                     <label class="col-md-4 control-label" for="selectbasic">No</label>
                                     <select id="selectbasic" name="selectbasic" class="form-control">
-                                        <option value>{NEW}</option>
+                                        <option value="0">{NEW}</option>
                                     </select>
                                 </div>
                                 <div class="col-md-4">
